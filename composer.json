@@ -1,0 +1,17 @@
+{
+    "name": "maxmode/vacancy_repository",
+    "license": "proprietary",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4",
+        "phpunit/phpunit": "^5.0"
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
