@@ -20,7 +20,7 @@ so it's possible to build nested structure or Repositories.
 
 ## Requirements
 
-1. PHP 5.4+
+1. PHP 5.6+
 2. composer
 
 ## Installation
