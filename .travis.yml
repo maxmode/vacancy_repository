@@ -8,4 +8,4 @@ before_script:
   - php composer.phar update
 
 script:
-  - phpunit -c Tests/app/phpunit.xml
+  - bin/phpunit
