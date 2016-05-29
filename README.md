@@ -2,7 +2,7 @@ Vacancy repository
 ==================
 ## Stability
 
-[![Build Status](https://travis-ci.org/maxmode/generator.png)](https://travis-ci.org/maxmode/generator)
+[![Build Status](https://travis-ci.org/maxmode/vacancy_repository.png)](https://travis-ci.org/maxmode/vacancy_repository)
 
 ## About
 This is a demo project of VacancyRepository.

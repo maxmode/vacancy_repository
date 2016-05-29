@@ -1,7 +1,13 @@
 {
     "name": "maxmode/vacancy_repository",
-    "license": "proprietary",
     "type": "project",
+    "description": "A demo project of VacancyRepository",
+    "keywords": ["demo project"],
+    "homepage": "https://github.com/maxmode/vacancy_repository/wiki",
+    "license": "MIT",
+    "authors": [
+        {"name": "Maksym Moskvychev", "email": "m.moskvychev@gmail.com"}
+    ],
     "autoload": {
         "psr-4": {
             "": "src/"
