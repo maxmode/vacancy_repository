@@ -28,9 +28,11 @@ so it's possible to build nested structure or Repositories.
 ```composer install```
 
 ## Run tests
+
 ```bin/phpunit```
 
 ## Example of usage
+
 ```
 use Maxmode\VacancyRepository\Repository\VacancyRepository;
 use Maxmode\VacancyRepository\Repository\DataSource\Redis;
@@ -53,5 +55,3 @@ $vacancyList = $repository->search(...)
 //to delete vacancy in all data sources
 $repository->delete($id);
 ```
-
-
