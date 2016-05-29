@@ -25,15 +25,19 @@ so it's possible to build nested structure or Repositories.
 
 ## Installation
 
-```composer install```
+```
+composer install
+```
 
 ## Run tests
 
-```bin/phpunit```
+```
+bin/phpunit
+```
 
 ## Example of usage
 
-```
+```php
 use Maxmode\VacancyRepository\Repository\VacancyRepository;
 use Maxmode\VacancyRepository\Repository\DataSource\Redis;
 use Maxmode\VacancyRepository\Repository\DataSource\Mysql;
